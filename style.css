@@ -1,0 +1,67 @@
+h1 {
+    color: #EB5E28;
+    text-transform: uppercase;
+}
+
+
+
+ul {
+    list-style: georgian
+}
+
+.profile h2 {
+    color: #252422;
+}
+
+b {
+    color: darkred
+}
+
+
+
+h3 {
+    font-size: 1.8em
+}
+
+/* Right Column */
+
+#work {
+    margin-top: 4em;
+}
+
+#right-col {
+    background-color: #EDDDD4
+}
+
+h4 {
+    font-size: 1.5em;
+    color: #403D39
+}
+
+#right-col {
+    margin-left: 26em;
+    padding: 2em
+}
+
+#left-col {
+    background-color: #FFFCF2;
+    padding: 2em;
+    width: 25em;
+    padding-bottom: 50em
+}
+
+
+.profile {
+    border-radius: 50%;
+    width: 19em;
+    margin-left: 10px
+}
+
+.face {
+    border-radius: 70%;
+    width: 40px
+}
+
+.ins {
+    width: 45px
+}
